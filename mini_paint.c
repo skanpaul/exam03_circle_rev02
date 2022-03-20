@@ -190,6 +190,7 @@ int main(int argc, char **argv)
 	t_circle	c;
 	char		*map;
 
+	ptr_file = NULL;
 	map = NULL;
 	// -----------------------------------------------------------
 	if (argc == 2)
